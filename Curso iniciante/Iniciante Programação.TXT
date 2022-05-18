@@ -1,0 +1,12 @@
+# Lógica de Programação Essencial
+
+Conclusão 01/05/2022
+
+Carga horária 4 horas
+
+###  Introdução ao Git e ao Github
+
+Conclusão 14/05/2022
+
+Carga horária 5 horas
+
